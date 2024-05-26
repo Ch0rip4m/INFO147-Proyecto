@@ -1,5 +1,16 @@
-Estación Teniente Gallardo, Puerto Natales Ad.,510005
-Estación Cañal Bajo, Osorno Ad.,400009
-Estación Chacalluta, Arica Ap.,180005
-Estación Quinta Normal, Santiago,330020
-Estación Guardiamarina Zañartu, Pto Williams Ad.,550001
+Estación Teniente Gallardo Puerto Natales Ad.,Region de Magallanes y de la Antartica Chilena,510005
+Estación Cañal Bajo Osorno Ad.,Region de Los Lagos,400009
+Estación Chacalluta Arica Ap.,Region de Arica y Parinacota,180005
+Estación Quinta Normal Santiago,Region Metropolitana,330020
+Estación Guardiamarina Zañartu Pto Williams Ad.,Region de Magallanes y de la Antártica Chilena,550001
+Estación Desierto de Atacama Caldera Ad.,Region de Atacama,270008
+Estación La Florida La Serena Ad.,Region de Coquimbo,290004
+Estación El Tepual Puerto Montt Ap.,Region de Los Lagos,410005
+Estación Futaleufú Ad.,Region de Los Lagos,430002
+Estación Melinka Ad.,Region de Aysen,430009
+Estación Puerto Aysén Ad.,Region de Aysen,450001
+Estación Balmaceda Ad.,Region de Aysen,450005
+Estación Fuentes Martínez Porvenir Ad.,Region Metropolitana,530005
+Estación Diego Aracena Iquique Ap.,Region de Tarapaca,200006
+Estación El Paico,Region Metropolitana,330113
+
